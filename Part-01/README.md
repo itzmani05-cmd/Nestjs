@@ -17,15 +17,11 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Run tests
+## Concepts
 
-```bash
-# unit tests
-$ npm run test
+->Intro 
+->Controllers
+->Providers
+->DTO Validation
 
-# e2e tests
-$ npm run test:e2e
 
-# test coverage
-$ npm run test:cov
-```
